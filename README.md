@@ -21,7 +21,7 @@ Quiz (เดี่ยว ถามในห้อง) = 5%
 
 GitHub(ตวามเรียบร้อยเเละสวยงาม) = 5% Final Score = Score * %attendance
 
-# Homeworkทั้งหมด
+# Homeworkทั้งหมด :pencil:
 + Hw1 Frequent Items (Association Rules)
 + Hw2 Decision tree handwritting
 + Hw3 Group_Decision Tree(min_sample_leaf,max_feature) 
@@ -38,7 +38,7 @@ Click to slide presentation [PresentHw1](https://github.com/kwansawanth/BSC_DPDM
 + นางสาวนริศรา โยธาจันทร์
 + นางสาวนรีกานต์ ปัญญารักษ์
 + นางสาวพิมพิกา ยอดศรี
-### Homework2  
+### Homework2   
 
 Click to  [Homework2](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Hw2.pdf) 
 วาดมือDecision tree
@@ -61,9 +61,9 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L
 
 สมาชิก Group ทองประเสริฐ + I hate monday :busts_in_silhouette:
 
-# Midterm Exam 
+# Midterm Exam ⚡ :zap:
   **click to** [MidtermExam](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Midterm_BscDPDM23.ipynb)
-# Final Project 
+# Final Project :information_desk_person:
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
 
 **สมาชิกกลุ่มทองประเสริฐ และ ท้อ** :busts_in_silhouette:
