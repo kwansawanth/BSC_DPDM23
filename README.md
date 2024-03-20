@@ -27,10 +27,12 @@ GitHub(ตวามเรียบร้อยเเละสวยงาม) = 
 + Hw3 Group_Decision Tree(min_sample_leaf,max_feature) 
 + Hw4 Group_Decision Tree handwritting(min_sample_leaf,max_feature)
 ### Homework1 Frequent Items
-สมาชิก
+
 Clik to code [CodeHw1](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
 
 Click to slide presentation [PresentHw1](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Marketbasket_compressed.pdf)
+
+สมาชิก
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
 + นางสาวนรีกานต์ ปัญญารักษ์
