@@ -83,8 +83,8 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L
 ข้อมูล พฤติกรรมการใช้สื่อเพื่อการติดตามข่าวออนไลน์ของคนแต่ละช่วงวัย[องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย]
 
 + Slide นำเสนอข้อมูล วันที่ 26 feb 2567 [SlidePresentation](https://www.canva.com/design/DAF9xVROj5g/MU3QyOEiNPy-GS3r-zhv9w/view?utm_content=DAF9xVROj5g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-+ นำเสนอก่อนพรี วันที่ 4 Mar 2566 
-+ นำเสนอวันจริง วันที่ 6 Mar 2566 [Final_Project_Presentation](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Blue%20White%20Modern%20And%20Professional%20Company%20Profile%20Presentation.pdf)
++ นำเสนอก่อนพรี วันที่ 4 Mar 2567 
++ นำเสนอวันจริง วันที่ 6 Mar 2567  [Final_Project_Presentation](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Blue%20White%20Modern%20And%20Professional%20Company%20Profile%20Presentation.pdf)
 
 + Code [FinalProject](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Final_Project.ipynb)
 
