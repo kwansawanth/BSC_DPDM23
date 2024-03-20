@@ -26,6 +26,7 @@ GitHub(ตวามเรียบร้อยเเละสวยงาม) = 
 + Hw2 Decision tree handwritting
 + Hw3 Group_Decision Tree(min_sample_leaf,max_feature) 
 + Hw4 Group_Decision Tree handwritting(min_sample_leaf,max_feature)
++ Hw5 Neural network (Perceptron)
 ### Homework1 Frequent Items
 
 Click to code [CodeHw1](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
@@ -60,6 +61,9 @@ Click to handwritting  [Hw4](https://github.com/kwansawanth/BSC_DPDM23/blob/main
 Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L7vsBccwde5Q/view?utm_content=DAGAEi1HviM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 สมาชิก Group ทองประเสริฐ + I hate monday :busts_in_silhouette:
+
+### Homework5 Perceptron
+ทำPerceptron click to open [Hw5](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Homework5.pdf)
 
 # Midterm Exam ⚡ :zap:
   **click to** [MidtermExam](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Midterm_BscDPDM23.ipynb)
