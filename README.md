@@ -86,7 +86,7 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L
 
 # รวมไฟล์ 
 
-รวมไฟล์ที่ส่งทั้งหมดในdrive Click to open [Drive](https://drive.google.com/drive/folders/1WozvzsLgjTw3_WJ5YiFphDM4dAtCQPxq?usp=share_link)
+รวมไฟล์ทั้งหมดในdrive Click to open [Drive](https://drive.google.com/drive/folders/1WozvzsLgjTw3_WJ5YiFphDM4dAtCQPxq?usp=share_link)
 
 
 
