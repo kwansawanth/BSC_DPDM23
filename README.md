@@ -3,9 +3,9 @@
 
 ☆ Data Preprocessing and Data Mining 2023 
 
-☆ Kwansawan Thongprasert (นางสาวขวัญสวรรค์ ทองประเสริฐ)
+:ribbon: Kwansawan Thongprasert (นางสาวขวัญสวรรค์ ทองประเสริฐ) :ribbon:
 
-☆Student No.643020498-9
+:ribbon: Student No. 643020498-9  :ribbon:
 
 
 # Score
