@@ -32,7 +32,7 @@ Click to code [CodeHw1](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Freq
 
 Click to slide presentation [PresentHw1](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Marketbasket_compressed.pdf)
 
-**สมาชิก กลุ่ม ทองประเสริฐ**  
+**สมาชิก กลุ่ม ทองประเสริฐ**  :scream_cat:
 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
@@ -50,7 +50,7 @@ Click to code [CodeHw3](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Clas
 
 Click to slide presentation[PresentHw3](https://www.canva.com/design/DAF8ejkUgWc/qB4EU70aLQGHXQhvQk8N1Q/view?utm_content=DAF8ejkUgWc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-**สมาชิก Group ทองประเสริฐ + I hate monday**
+**สมาชิก Group ทองประเสริฐ + I hate monday** :busts_in_silhouette:
 
 ### Homework4 DecisionTree Parameter handwritting
 การวาดต้นไม้ตัดสินใจโดยมือ โดยใช้parameter คือ 
@@ -59,14 +59,14 @@ Click to handwritting  [Hw4](https://github.com/kwansawanth/BSC_DPDM23/blob/main
 
 Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L7vsBccwde5Q/view?utm_content=DAGAEi1HviM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-สมาชิก Group ทองประเสริฐ + I hate monday
+สมาชิก Group ทองประเสริฐ + I hate monday :busts_in_silhouette:
 
 # Midterm Exam 
   **click to** [MidtermExam](https://github.com/kwansawanth/BSC_DPDM23/blob/main/Midterm_BscDPDM23.ipynb)
 # Final Project 
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
 
-**สมาชิกกลุ่มทองประเสริฐ และ ท้อ**
+**สมาชิกกลุ่มทองประเสริฐ และ ท้อ** :busts_in_silhouette:
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
 + นางสาวนรีกานต์ ปัญญารักษ์
