@@ -70,7 +70,7 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAGAEi1HviM/8WQr9sTuu2L
 # Final Project :information_desk_person:
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
 
-**สมาชิกกลุ่มทองประเสริฐ และ ท้อ** :busts_in_silhouette:
+**สมาชิกกลุ่มทองประเสริฐ และ กลุ้ม** :busts_in_silhouette:
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
 + นางสาวนรีกานต์ ปัญญารักษ์
